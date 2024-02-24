@@ -43,15 +43,18 @@ Go through 'Programming the ESP32-CAM' in this link
   [Programming the ESP32-CAM](https://lastminuteengineers.com/getting-started-with-esp32-cam/)
 
 ---
+# Note
 
-## Note:
+Make sure all the libraries mentioned in documentation are properly installed along with the blynk setup
+# Modes of Viper Vision
 
-
-Make sure all the libraries mentioned in documentation are properly installed
-
-
-
-
-
+```bash
+  1  ====> go forward
+  2  ====> turn right
+  3  ====> turn left
+  4  ====> ring form
+  5  ====> static wave
+  6  ====> straight line
+```
 # References
 [Robotic-Snake](https://github.com/WillDonaldson/Robotic-Snake.git)
