@@ -1,6 +1,4 @@
 
-# References
-[Robotic-Snake](https://github.com/WillDonaldson/Robotic-Snake.git)
 # Deployment
 To deploy this project run
 
@@ -54,3 +52,6 @@ Make sure all the libraries mentioned in documentation are properly installed
 
 
 
+
+# References
+[Robotic-Snake](https://github.com/WillDonaldson/Robotic-Snake.git)
