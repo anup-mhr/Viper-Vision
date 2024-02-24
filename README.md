@@ -57,4 +57,20 @@ Make sure all the libraries mentioned in documentation are properly installed al
   6  ====> straight line
 ```
 # References
-[Robotic-Snake](https://github.com/WillDonaldson/Robotic-Snake.git)
+
+For esp32 cam:
+----
+- https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+
+For snake project:
+----
+- https://www.instructables.com/Bioinspired-Robotic-Snake/
+- [Robotic-Snake](https://github.com/WillDonaldson/Robotic-Snake.git)
+
+On snake research:
+-----
+- https://biorobotics.ri.cmu.edu/papers/paperUploads/ICRA2013_Enner_Estimation_Motion_of_Snake_Robots_in_Straight_Pipes.pdf
+- https://www.ri.cmu.edu/pub_files/pub1/dowling_kevin_1997_5/dowling_kevin_1997_5.pdf
+- https://www.ri.cmu.edu/pub_files/2014/6/d_rollinson_robotics_2014.pdf
+
+
